@@ -14,7 +14,6 @@
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 **Hire Me** is a full-stack job portal where job seekers can search and apply for job openings, upload their resumes, and manage their profiles. Recruiters can post jobs, manage applications, and accept/reject candidates. The platform uses **Clerk** for authentication and **Sentry** for error tracking and performance monitoring.
@@ -47,7 +46,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/TuShArBhArDwA/HireMe.git
+   git clone https://github.com/shuklatushar12219829/HireMe.git
    cd HireMe
 2. **Install dependencies**
    ```sh
@@ -122,7 +121,7 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 
 2. **Clone your forked repository**  
    ```sh
-   git clone https://github.com/TuShArBhArDwA/HireMe.git
+   git clone https://github.com/shuklatushar12219829/HireMe.git
    cd HireMe
 
 3. **Create a new branch**
@@ -154,11 +153,5 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 ## License
 - Distributed under the MIT License. See LICENSE for details.
 
-## Contact
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
-- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
-- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
 
 
